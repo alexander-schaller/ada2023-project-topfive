@@ -29,6 +29,7 @@ url: "https://alexander-schaller.github.io/ada2023-project-topfive" # the base h
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 
 # Github Pages Settings
